@@ -1,0 +1,4 @@
+{
+  "baseChain": "bsc-testnet",
+  "globalSupply" : "1000000"
+}
